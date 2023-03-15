@@ -3,7 +3,6 @@
 - 🔭 Sou estudante de Engenharia de Computação
 - 📖 Tenho conhecimento em linguagem C
 - 🌱 Estou aprendendo C++ e Python
-- 😄 Pronomes: ela/dela
 ##
 <div align="center">
   <a href="https://github.com/Letolsilva">
