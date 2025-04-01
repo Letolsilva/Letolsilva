@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Letícia Silva
 
 - 🔭 Estou no sétimo semestre de Engenharia de Computação
-- 📖 Tenho conhecimento em linguagem C, C++ e Python
-- 🌱 Estou aprendendo JavaScript e C#
+- 📖 Tenho conhecimento em linguagem C, C++, TypeScript e Python
+
 ##
 <div align="center">
   <a href="https://github.com/Letolsilva">
